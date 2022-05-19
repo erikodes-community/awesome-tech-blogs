@@ -3818,5 +3818,12 @@ module.exports = [
       "Vietnamese",
       "Open Source"
     ],
-  }
+  },
+  {
+    name: 'erikodes',
+    description: 'curious musical coder',
+    url: 'https://blog.erikodes.com',
+    twitter: '@_erikodes_',
+    tags: ['Python', 'Music', 'Data Engineering'],
+  },
 ];
